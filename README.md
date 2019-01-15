@@ -10,5 +10,5 @@ The font is Source Sans Pro and is embedded in the template. The embedded fonts 
 
 An example CV: 
 
-![](/example.png)
+![](example.png)
 
