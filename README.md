@@ -8,7 +8,4 @@ The footer html has been changed to include author name and 'current page of tot
 
 The font is Source Sans Pro and is embedded in the template. The embedded fonts are licensed under [SIL Open Font License, 1.1](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
 
-An example CV: 
-
-![](example.png)
 
